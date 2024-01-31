@@ -1,4 +1,4 @@
-# HelloID-Task-SA-Source-ActiveDirectory-AccountSearch
+# HelloID-Task-SA-Source-ActiveDirectory-GroupSearch
 
 ## Prerequisites
 
